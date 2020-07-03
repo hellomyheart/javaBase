@@ -4,8 +4,6 @@
  */
 public class RoyaltyIncome extends Income {
 
-	public double income;
-
 	public RoyaltyIncome(double income) {
 		this.income=income;
 	}

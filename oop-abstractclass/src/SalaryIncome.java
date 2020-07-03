@@ -1,7 +1,6 @@
 
 public class SalaryIncome extends Income{
-	public double income;
-
+	
 	public SalaryIncome(double income) {
 		this.income=income;
 	}
